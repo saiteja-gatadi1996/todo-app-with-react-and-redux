@@ -1,0 +1,22 @@
+.todoInput{
+    padding:20px;
+   
+    text-align: center;
+}
+
+.input{
+    outline-width: 0;
+}
+
+.inputButton{
+    background-color: #0ac40a;
+    color: white;
+    border: 0;
+   height: 25px;
+   margin-left: 10px;
+    
+}
+
+.inputButton:hover{
+    transform: scale(0.92);
+}
